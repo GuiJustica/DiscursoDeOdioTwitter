@@ -1,4 +1,4 @@
-Este repositório é um projeto de pesquisa com o tema:<br>
+Este repositório é um projeto de pesquisa e iniciação científica:<br>
 DETECÇÃO DE DISCURSOS DE ÓDIO POR MEIO DE APLICAÇÃO DE TÉCNICAS DE INTELIGÊNCIA ARTIFICIAL: UM ESTUDO DE CASO UTILIZANDO O TWITTER
 
 Realização:
