@@ -5,5 +5,3 @@ Realização:
   + Guilherme Marcato Mendes Justiça - Aluno de Ciência da Computação da FEI.
   + Prof. Dra. Leila Cristina C. Bergamasco - Orientadora, coordenadora e chefe do departamento do curso de Ciência da Computação da FEI. 
   + Em parceria com : Ministério Público Federal
-
-     + Informações abaixo
